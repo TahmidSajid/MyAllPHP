@@ -1,0 +1,33 @@
+body{
+    background: url(images/bg_3.jpg) no-repeat, center /cover;
+}
+.navbar{
+    background: rgba(254, 255, 255, 0.43) !important;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+    backdrop-filter: blur(8.3px) !important;
+    -webkit-backdrop-filter: blur(8.3px) !important;
+    border: 1px solid rgba(254, 255, 255, 0.62) !important;
+}
+.alert{
+    width: 178px !important;
+    height: 37px;
+    text-align: center;
+    padding: 0px;
+    padding-top: 4px;
+}
+.form-lebel{
+    text-align: center;
+}
+.card{
+    margin-top: 338px;
+    background: rgba(174, 187, 236, 0.63);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(8.3px);
+    -webkit-backdrop-filter: blur(8.3px);
+    border: 1px solid rgba(174, 187, 236, 0.69);
+}
+.credit-para{
+    margin-top: 297px;
+    font-size: 25px;
+}
